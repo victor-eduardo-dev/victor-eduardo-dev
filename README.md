@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá, eu sou Victor Eduardo 👋🧛‍♂️
 
-<!--
-**victor-eduardo-dev/victor-eduardo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Here are some ideas to get you started:
+Atualmente estou focado em construir uma base sólida em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou estudando
+
+- Java
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Algoritmos e Lógica de Programação
+- Git e GitHub
+- Desenvolvimento Back-End
+- Python
+  
+## Projetos de Estudo
+
+- Java Fundamentals
+- Exercícios de lógica e estruturas de controle
+- Desafios práticos para fixação de conceitos
+
+- Python Fundamentals
+- Exercícios de lógica e estruturas de controle
+- Desafios práticos para fixação de conceitos
+   
+## Objetivo
+
+Meu objetivo é me tornar desenvolvedor Back-End, construindo conhecimento de forma consistente e documentando minha evolução através dos projetos disponíveis neste perfil.
+
+📚 Aprendendo um passo de cada vez.
